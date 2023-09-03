@@ -24,7 +24,7 @@
  
   <hr>
  
-![Pranab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranabnandyNitk&theme=sunset-gradient)
+![Pranab's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranabnandyNitk&theme=neon)
 
 
 
